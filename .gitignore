@@ -5,6 +5,8 @@
 # Compiled class file
 *.class
 
+logs.txt
+
 # Log file
 *.log
 
