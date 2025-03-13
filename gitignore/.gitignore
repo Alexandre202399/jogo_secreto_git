@@ -5,8 +5,8 @@
 # Compiled class file
 *.class
 
-logs.txt
-.gitignore
+log.txt
+gitignore/
 
 # Log file
 *.log
