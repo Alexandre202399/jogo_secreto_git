@@ -6,6 +6,7 @@
 *.class
 
 logs.txt
+.gitignore
 
 # Log file
 *.log
